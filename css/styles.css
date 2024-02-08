@@ -4,6 +4,9 @@ body h1 {
   font-family: arial;
   color: #5a5a5a;
 }
+h2 {
+  text-align: center;
+}
 body ul {
   display: block;
   list-style: none;
