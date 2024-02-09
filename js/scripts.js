@@ -12,7 +12,7 @@ if (hours > 4 && hours <= 11){
   else if (hours > 11 && hours <= 18){
     console.log(`It's ${hours} o'clock in the afternoon`);
   }
-  else if (hours > 18 || hours <= 23){
+  else if (hours > 18 && hours <= 23){
     console.log(`It's ${hours} o'clock in the evening`);
   }
   else {
